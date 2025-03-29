@@ -6,10 +6,10 @@ Collection of various C++ projects completed during coursework at K.N.T Universi
 - [Course: Programming]
   * Superviser: Fatemeh S. Rasouli
   * University: K.N.T University of Technology
-  * Semester: Spring/2019
+  * Semester: Winter/2019
 
 ## Book Projects
 - [Book: Fundamentals of Programming in Fortran and C++]
   * Authors: S. Farhad Masoudi, Fatemeh S. Rasouli
   * Publisher: K.N.T University of Technology
-  * Year: Spring 2018
+  * Year: 2018
