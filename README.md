@@ -1,4 +1,4 @@
-# Course_Cpp_Programming
+# Course Cpp Programming
 
 Collection of various C++ projects completed during coursework at K.N.T University of Technology and personal programming exercises.
 
