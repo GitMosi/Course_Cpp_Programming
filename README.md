@@ -4,7 +4,7 @@ Collection of various C++ projects completed during coursework at K.N.T Universi
 
 ## Course Projects
 - [Course: Programming]
-  * Superviser: S. Farhad Masoudi
+  * Superviser: Fatemeh S. Rasouli
   * University: K.N.T University of Technology
   * Semester: Spring/2021
 
